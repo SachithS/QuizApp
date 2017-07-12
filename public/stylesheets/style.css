@@ -1,0 +1,33 @@
+body {
+  font-family: 'Noto Sans', sans-serif; !important;
+  background: rgba(63, 81, 181, 0.22);
+}
+
+a {
+  color: #00B7FF;
+}
+
+.qustion_title{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.qustions .button a{
+  font-weight: bold !important;
+}
+
+.radio li {
+  margin: 15px;
+  font-size: 18px;
+}
+
+#quiz{
+  padding: 10px;
+  margin: 10px;
+  border: solid #edefe1;
+}
+
+.score{
+  font-size: 24px;
+  font-weight: bold;
+}
